@@ -1,0 +1,20 @@
+baseurl: ""
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+incremental: true
+
+liquid:
+  error_mode: strict
+
+markdown: kramdown
+
+permalink: pretty
+
+strict_front_matter: true
+
+title: Live Reload Incremental Bug
+
+url: "http://localhost"
